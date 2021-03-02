@@ -1,0 +1,46 @@
+.contain {
+    width: 50%;
+    margin: 0 auto;
+    min-height: 100px;
+    padding: 20px;
+    margin-top: 50px;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 16px #222;
+}
+
+.bio {
+    margin-bottom: 30px;
+}
+
+.bio h3 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.bio p {
+    font-size: 17px;
+    color: #222222;
+}
+
+.skills ul li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    background: rgb(199, 199, 199);
+    margin: 3px;
+    border-radius: 5px;
+}
+
+.social ul li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    background: rgb(199, 199, 199);
+    margin: 3px;
+    border-radius: 5px;
+}
+
+.social a {
+    text-decoration: none;
+    color: #222222;
+}
